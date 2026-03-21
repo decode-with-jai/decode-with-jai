@@ -1,67 +1,123 @@
-# 👋 Hi, I'm Jai Jain
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300?text=Jai+Jain+-+Digital+Builder+%7C+Developer+%7C+Marketer" />
+</p>
 
-I'm a passionate and evolving tech enthusiast with a growing focus on **Data Science and AI**.  
-Currently learning through the **Data Science Program at GUVI**, I am gaining strong hands-on experience in:
+<h1 align="center">👋 Hi, I'm Jai Jain</h1>
 
-💻 Python • 🗃️ SQL • 📊 Power BI • 📈 Tableau • 🤖 Machine Learning • 🧠 Deep Learning • 🧬 Artificial Intelligence
+<p align="center">
+🚀 Digital Builder • 💻 Web Developer • 📈 Performance Marketer • 🤖 AI Enthusiast
+</p>
+
+<p align="center">
+I build websites, grow digital products, and experiment with AI + marketing to create real-world impact.
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m a **multi-skilled digital creator** blending **development, marketing, and AI** to build scalable online projects.
+
+🎓 Completed my **Data Science Program (GUVI)**  
+💡 Now focused on **Web Development + Full Stack Digital Marketing**  
+🚀 Currently working on **blogs, affiliate systems & startup ideas**
+
+---
+
+## 🧠 What I Do
+
+💻 Build modern, responsive websites (WordPress & Frontend)  
+📈 Run & optimize digital campaigns (Google Ads, Meta Ads)  
+🔍 Implement SEO strategies to rank content  
+💰 Work with affiliate marketing & performance marketing  
+🤖 Explore AI tools, automation & prompt engineering  
+🛠️ Create real-world digital products & platforms  
 
 ---
 
 ## 🛠️ Skills
 
-- 💻 **Programming:** Python, C, C++, JavaScript  
-- 🌐 **Web Development:** HTML, CSS, JavaScript, Bootstrap  
-- 📦 **Data Tools:** SQL, Power BI, Tableau  
-- 🤖 **AI/ML:** Machine Learning, Deep Learning, AI Concepts  
-- 🛠️ **Version Control:** Git & GitHub  
-- 🧾 **Other:** MS Office, Basics of Marketing & HR
+### 💻 Development
+- HTML, CSS, JavaScript, Bootstrap  
+- WordPress (Custom Setup, SEO, Performance Optimization)
+
+### 📊 Data & Analytics
+- Python, SQL  
+- Power BI, Tableau  
+
+### 📈 Digital Marketing
+- SEO (On-page, Technical, Content Strategy)  
+- Google Ads & Meta Ads  
+- Affiliate Marketing  
+- Performance Marketing  
+
+### 🤖 AI & Tools
+- AI Tools & Prompt Engineering  
+- Automation & Productivity Tools  
+
+### ⚙️ Others
+- Git & GitHub  
+- Blogging & Content Creation  
+- Basic Business & Startup Strategy  
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Current Focus
 
-- 📊 Data Analysis and Visualization  
-- 🧠 Building ML Models  
-- 🤖 Exploring AI Solutions  
-- 🚀 Continual Growth in Analytics & Data Science
+- 🌐 Building scalable websites & blogs  
+- 📈 Growing traffic using SEO + ads  
+- 💰 Monetizing through affiliate systems  
+- 🚀 Launching my own startup projects  
+- 🤖 Leveraging AI in development & marketing  
 
 ---
 
 ## 💼 Projects
 
-> A mix of web and data-focused projects showcasing my transition from frontend to data science
+> Real-world projects combining development + marketing
 
-- 🔢 **Calculator App** – HTML, CSS & JavaScript  
-- 🧑‍💻 **Portfolio Website** – Showcasing my work and achievements  
-- 🛒 **E-Commerce Website** – A complete frontend shopping platform  
-- 📊 **Data Analysis Projects** – Coming soon using Python & Power BI  
-- 🤖 **AI & ML Projects** – Soon launching basic intelligent systems
+- 📰 **Disha Bhoomi News Website**  
+  → WordPress-based news platform with SEO & multi-user system  
+
+- 🛒 **GRMKART E-Commerce Store**  
+  → Product-based website with conversion-focused design  
+
+- 🌐 **Portfolio Website**  
+  → Personal brand & project showcase  
+
+- 🔢 **Calculator App**  
+  → Built using HTML, CSS & JavaScript  
 
 ---
 
-## 🌍 Background
+## 🌍 Personal Brand
 
-Born and raised in **Meerut**, my curiosity for tech started at an early age.  
-With a solid foundation in programming and real-world applications, I am now focused on turning data into insight and solving meaningful problems with machine learning.
+🚀 Building **Decode With Jai** — a growing platform where I share:
+- Tech & coding  
+- Digital marketing strategies  
+- AI tools & workflows  
+- Growth mindset & consistency  
 
 ---
 
-## 🎮 Hobbies & Interests
+## 🎯 Vision
 
-- 👨‍💻 Coding & side projects  
-- 🧠 Exploring AI tools & new tech  
-- 🎮 Gaming & strategy games  
-- 📚 Blogging & knowledge sharing
+To become a **full-stack digital creator** who can:
+- Build products  
+- Scale them with marketing  
+- Automate using AI  
+- And turn ideas into profitable systems  
 
 ---
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/-jai-jain/))  
-- 💻 [Portfolio]([https://github.com/your-github](https://jaiguar.github.io/Portfolio-BS/))  
-- 🎥 [YouTube]([https://www.youtube.com/@yourchannel](https://www.youtube.com/@decodewithjai))  
-- 📸 [Instagram]([https://instagram.com/your-handle](https://www.instagram.com/decodewithjai/))
-
+- 💼 LinkedIn: https://www.linkedin.com/in/-jai-jain/  
+- 🌐 Portfolio: https://jaijainofficials.wixstudio.com/jaijain  
+- 🎥 YouTube: https://www.youtube.com/@JaiJainDev
+  
 ---
 
-💡 *“I believe in learning by doing — and this GitHub is my playground for growth.”*
+<p align="center">
+🔥 Building, learning & scaling every single day.
+</p>
