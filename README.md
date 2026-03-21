@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Jai+Jain+-+Digital+Builder+%7C+Developer+%7C+Marketer" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Jai Jain</h1>
 
 <p align="center">
