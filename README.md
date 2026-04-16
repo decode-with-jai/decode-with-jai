@@ -82,16 +82,15 @@ to build **scalable digital systems & products**.
 
 ---
 
-## 📸 Screenshots
-
+## 📸 Project
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Portfolio+Website" width="85%"/>
+  <img src="assets/portfolio.png" width="85%"/>
   <br/><br/>
-  <img src="https://via.placeholder.com/800x400?text=News+Website" width="85%"/>
+  <img src="assets/news.png" width="85%"/>
   <br/><br/>
-  <img src="https://via.placeholder.com/800x400?text=Ecommerce+Store" width="85%"/>
+  <img src="assets/e-commerce.png" width="85%"/>
   <br/><br/>
-  <img src="https://via.placeholder.com/800x400?text=Marketing+Results" width="85%"/>
+  <img src="assets/marketing.png" width="85%"/>
 </p>
 
 ---
