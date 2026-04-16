@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=220&section=header&text=Jai%20Jain%20%7C%20Digital%20Builder&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Jai Jain</h1>
 
 <p align="center">
@@ -5,115 +9,155 @@
 </p>
 
 <p align="center">
-I build websites, grow digital products, and experiment with AI + marketing to create real-world impact.
+I build websites, scale digital products, and combine development, marketing, and AI to create real-world impact.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/-jai-jain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jaijainofficials.wixstudio.com/jaijain"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@JaiJainDev"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-Active-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Marketing-Performance-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌐 Live Presence
 
-I’m a **multi-skilled digital creator** blending **development, marketing, and AI** to build scalable online projects.
-
-🎓 Completed my **Data Science Program (GUVI)**  
-💡 Now focused on **Web Development + Full Stack Digital Marketing**  
-🚀 Currently working on **blogs, affiliate systems & startup ideas**
-
----
-
-## 🧠 What I Do
-
-💻 Build modern, responsive websites (WordPress & Frontend)  
-📈 Run & optimize digital campaigns (Google Ads, Meta Ads)  
-🔍 Implement SEO strategies to rank content  
-💰 Work with affiliate marketing & performance marketing  
-🤖 Explore AI tools, automation & prompt engineering  
-🛠️ Create real-world digital products & platforms  
+- 💼 LinkedIn: https://www.linkedin.com/in/-jai-jain/  
+- 🌐 Portfolio: https://jaijainofficials.wixstudio.com/jaijain  
+- 🎥 YouTube: https://www.youtube.com/@JaiJainDev  
+- 🚀 Brand: Decode With Jai  
 
 ---
 
-## 🛠️ Skills
+## 🧠 About Me
 
-### 💻 Development
-- HTML, CSS, JavaScript, Bootstrap  
-- WordPress (Custom Setup, SEO, Performance Optimization)
+I’m a **multi-skilled digital creator** blending:
 
-### 📊 Data & Analytics
-- Python, SQL  
-- Power BI, Tableau  
+- 💻 Development  
+- 📈 Performance Marketing  
+- 🤖 AI & Automation  
 
-### 📈 Digital Marketing
-- SEO (On-page, Technical, Content Strategy)  
-- Google Ads & Meta Ads  
-- Affiliate Marketing  
-- Performance Marketing  
+to build **scalable digital systems & products**.
 
-### 🤖 AI & Tools
-- AI Tools & Prompt Engineering  
-- Automation & Productivity Tools  
+🎓 Completed **Data Science Program (GUVI)**  
+🚀 Focused on **Web Dev + Full Stack Marketing**  
+💡 Building blogs, affiliate systems & startup ideas  
 
-### ⚙️ Others
-- Git & GitHub  
-- Blogging & Content Creation  
-- Basic Business & Startup Strategy  
+---
+
+## ✨ What I Do
+
+- 💻 Build modern, responsive websites  
+- 📈 Run & optimize Google Ads & Meta Ads  
+- 🔍 Execute SEO strategies  
+- 💰 Scale affiliate marketing systems  
+- 🤖 Automate workflows using AI  
+- 🛠️ Build real-world digital products  
+
+---
+
+## 🛠️ Tech Stack
+
+**Development:** HTML, CSS, JavaScript, Bootstrap, WordPress  
+**Data:** Python, SQL, Power BI, Tableau  
+**Marketing:** SEO, Google Ads, Meta Ads, Affiliate Marketing  
+**AI:** Prompt Engineering, Automation Tools  
+**Others:** Git, GitHub, Blogging, Startup Thinking  
+
+---
+
+## 💼 Featured Projects
+
+- 📰 Disha Bhoomi News Website  
+- 🛒 GRMKART E-Commerce Store  
+- 🌐 Portfolio Website  
+- 🔢 Calculator App  
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Portfolio+Website" width="85%"/>
+  <br/><br/>
+  <img src="https://via.placeholder.com/800x400?text=News+Website" width="85%"/>
+  <br/><br/>
+  <img src="https://via.placeholder.com/800x400?text=Ecommerce+Store" width="85%"/>
+  <br/><br/>
+  <img src="https://via.placeholder.com/800x400?text=Marketing+Results" width="85%"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚙️ Usage
+
+- Replace **your-username** with your GitHub username  
+- Add real screenshots later  
+- Keep updating projects & achievements  
 
 ---
 
 ## 🔥 Current Focus
 
-- 🌐 Building scalable websites & blogs  
-- 📈 Growing traffic using SEO + ads  
-- 💰 Monetizing through affiliate systems  
-- 🚀 Launching my own startup projects  
-- 🤖 Leveraging AI in development & marketing  
+- 🌐 Websites & blogs  
+- 📈 SEO + Ads growth  
+- 💰 Affiliate monetization  
+- 🚀 Startup building  
+- 🤖 AI integration  
 
 ---
 
-## 💼 Projects
+## 🚀 Future Plans
 
-> Real-world projects combining development + marketing
-
-- 📰 **Disha Bhoomi News Website**  
-  → WordPress-based news platform with SEO & multi-user system  
-
-- 🛒 **GRMKART E-Commerce Store**  
-  → Product-based website with conversion-focused design  
-
-- 🌐 **Portfolio Website**  
-  → Personal brand & project showcase  
-
-- 🔢 **Calculator App**  
-  → Built using HTML, CSS & JavaScript  
+- 🤖 AI automation systems  
+- 🌐 SaaS tools  
+- 📈 Advanced funnels  
+- 🎥 Content creation  
 
 ---
 
-## 🌍 Personal Brand
+## 👨‍💻 Author
 
-🚀 Building **Decode With Jai** — a growing platform where I share:
-- Tech & coding  
-- Digital marketing strategies  
-- AI tools & workflows  
-- Growth mindset & consistency  
+**Jai Jain**
 
----
-
-## 🎯 Vision
-
-To become a **full-stack digital creator** who can:
-- Build products  
-- Scale them with marketing  
-- Automate using AI  
-- And turn ideas into profitable systems  
+- LinkedIn: https://www.linkedin.com/in/-jai-jain/  
+- Portfolio: https://jaijainofficials.wixstudio.com/jaijain  
+- YouTube: https://www.youtube.com/@JaiJainDev  
 
 ---
 
-## 📬 Connect With Me
+## 💬 Support
 
-- 💼 LinkedIn: https://www.linkedin.com/in/-jai-jain/  
-- 🌐 Portfolio: https://jaijainofficials.wixstudio.com/jaijain  
-- 🎥 YouTube: https://www.youtube.com/@JaiJainDev
-  
+⭐ Follow  
+🤝 Connect  
+📢 Share  
+
 ---
 
 <p align="center">
-🔥 Building, learning & scaling every single day.
+🔥 Building • Learning • Scaling — Every Day
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00E5FF&height=120&section=footer"/>
 </p>
