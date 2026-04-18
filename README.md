@@ -99,13 +99,12 @@ to build **scalable digital systems & products**.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=decode-with-jai&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=decode-with-jai&theme=tokyonight"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=decode-with-jai&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decode-with-jai&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 
 ## ⚙️ Usage
