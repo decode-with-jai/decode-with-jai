@@ -14,7 +14,7 @@ I build websites, scale digital products, and combine development, marketing, an
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-jai-jain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jaijainofficials.wixstudio.com/jaijain"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.jaijain.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.youtube.com/@JaiJainDev"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
