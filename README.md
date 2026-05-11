@@ -139,7 +139,7 @@ to build **scalable digital systems & products**.
 **Jai Jain**
 
 - LinkedIn: https://www.linkedin.com/in/-jai-jain/  
-- Portfolio: https://jaijainofficials.wixstudio.com/jaijain  
+- Portfolio: https://www.jaijain.in/  
 - YouTube: https://www.youtube.com/@JaiJainDev  
 
 ---
