@@ -32,7 +32,7 @@ I build websites, scale digital products, and combine development, marketing, an
 - 💼 LinkedIn: https://www.linkedin.com/in/-jaijain/  
 - 🌐 Portfolio: https://www.jaijain.in/ 
 - 🎥 YouTube: https://www.youtube.com/@decodewiithjai 
-- 🚀 Brand: Decode With Jai  
+- 🚀 Blog : https://www.decodewithjai.in/  
 
 ---
 
@@ -140,7 +140,8 @@ to build **scalable digital systems & products**.
 
 - LinkedIn: https://www.linkedin.com/in/-jaijain/  
 - Portfolio: https://www.jaijain.in/  
-- YouTube: https://www.youtube.com/@JaiJainDev  
+- YouTube: https://www.youtube.com/@JaiJainDev
+- Blog : https://www.decodewithjai.in/
 
 ---
 
